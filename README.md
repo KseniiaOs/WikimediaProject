@@ -1,1 +1,1 @@
-# WikimediaSearch
+# WikimediaProject
